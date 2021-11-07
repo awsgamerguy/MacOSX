@@ -2,4 +2,5 @@
 <p align="center">
 
 # Run On replit
-![run](https://telegra.ph/file/9c14baf03fd7ee23c3102.png)
+<p align="center"><a href="https://t.me/MaX_Bots"><img src="https://telegra.ph/file/9c14baf03fd7ee23c3102.png" width="400"></a></p>
+<p align="center">
