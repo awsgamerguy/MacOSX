@@ -1,1 +1,1 @@
-<img src=".MacOS.png" alt="MAC OS" />
+<img src="MacOS.png" alt="MAC OS" />
