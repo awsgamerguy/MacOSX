@@ -11,4 +11,4 @@ You can get a Free Mac VM in replit from this 😳. Acc ban will not happen. Run
 
   
 ### For Best experience
-<a href="https://replit.com/@SenuGamerBoy/MacOSX?lite=1&outputonly=1"><img src="https://telegra.ph/file/535f38fa255f8dcb15d1e.png" width="100"></a>
+<a href="https://replit.com/@SenuGamerBoy/MacOSX?lite=1&outputonly=1"><img src="https://telegra.ph/file/535f38fa255f8dcb15d1e.png" width="150"></a>
