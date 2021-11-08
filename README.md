@@ -6,7 +6,7 @@ How are you? What is this❔
 
 You can get a Free Mac VM in replit from this 😳. Acc ban will not happen. 
 Run your Replit on the button below it. It takes 15 minutes to install.
-If you want to experience more, click on the Blue button at the bottom right. 
+If you want to More experience, click on the Blue button at the bottom right. 
 I did not create some of the files in this. Because true owners deserve credits 😅
   
 ღ This is for everyone, please fork this and put a star ✯
