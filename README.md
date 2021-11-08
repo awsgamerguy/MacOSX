@@ -17,6 +17,3 @@ I did not create some of the files in this. Because true owners deserve credits 
 ### For Best experience
 <a href="https://replit.com/@SenuGamerBoy/MacOSX?lite=1&outputonly=1"><img src="https://telegra.ph/file/535f38fa255f8dcb15d1e.png" width="150"></a>
 
-```
-  ©️ 2021 SenuGamerBoy
-```
