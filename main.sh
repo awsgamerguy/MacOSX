@@ -1,5 +1,6 @@
 # 🍀 ©️ 2021 SenuGamerBoy
 # ♻️  Tʀᴜᴇ ᴏᴡɴᴇʀꜱ ᴅᴇꜱᴇʀᴠᴇ ᴄʀᴇᴅɪᴛꜱ. ♻️
+# You can get a Free Mac VM in replit from this 😳
 
 if ! command -v qemu-system-i386 &> /dev/null
 then
