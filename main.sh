@@ -1,7 +1,3 @@
-#Script to run Mac OS 10.3 on Replit
-#By @UniqueOstrich18 on replit.com
-#https://replit.com/@UniqueOstrich18/MaxOSX
-
 if ! command -v qemu-system-i386 &> /dev/null
 then
   echo "QEMU not installed, installing now..."
