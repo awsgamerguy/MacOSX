@@ -1,3 +1,6 @@
+# 🍀 ©️ 2021 SenuGamerBoy
+# ♻️  Tʀᴜᴇ ᴏᴡɴᴇʀꜱ ᴅᴇꜱᴇʀᴠᴇ ᴄʀᴇᴅɪᴛꜱ. ♻️
+
 if ! command -v qemu-system-i386 &> /dev/null
 then
   echo "QEMU not installed, installing now..."
