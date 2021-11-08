@@ -22,3 +22,5 @@ printf "\nStarting system...\n"
 
 #QEMU Command goes below
 qemu-system-ppc -L pc-bios -boot c -M mac99 -m 256 -drive file=/tmp/macos.qcow2,format=qcow2,media=disk -device usb-kbd -device usb-mouse
+
+# This Script IS Free
