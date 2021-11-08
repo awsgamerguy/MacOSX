@@ -4,7 +4,10 @@
 ```
 How are you? What is this❔
 
-You can get a Free Mac VM in replit from this 😳. Acc ban will not happen. Run your Reply on the button below it. It takes 15 minutes to install.If you want to experience more, [click here](https://replit.com/@SenuGamerBoy/MacOSX?lite=1&outputonly=1) or click on the red button at the bottom right. I did not create some of the files in this. Because true owners deserve credits 😅
+You can get a Free Mac VM in replit from this 😳. Acc ban will not happen. 
+Run your Replit on the button below it. It takes 15 minutes to install.
+If you want to experience more, click on the Blue button at the bottom right. 
+I did not create some of the files in this. Because true owners deserve credits 😅
 ```
   
 ### Run On replit
