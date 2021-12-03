@@ -12,7 +12,7 @@ I did not create some of the files in this. Because true owners deserve credits 
 ღ This is for everyone, please fork this and put a star ✯
 ```
   
-### Run On replit
+### ಠ_ಠ Run On replit
 <a href="https://replit.com/github/SenuGamerBoy/MacOSX"><img src="https://telegra.ph/file/9c14baf03fd7ee23c3102.png" width="100"></a>
 
   
